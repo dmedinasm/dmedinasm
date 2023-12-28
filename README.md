@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmedinasm
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently making Personal React Projects
 - 💞️ I’m looking to collaborate on Web Development Proyects
 - 📫 How to reach me : dmedinasm@gmail.com
 
